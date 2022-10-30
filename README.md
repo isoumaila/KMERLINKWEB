@@ -31,3 +31,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demarrage
 - flutter run --no-sound-null-safety
+
+## Installation de flutter
+- https://stackoverflow.com/questions/54956813/how-to-check-the-installed-version-of-flutter
+- https://docs.flutter.dev/get-started/install/windows
